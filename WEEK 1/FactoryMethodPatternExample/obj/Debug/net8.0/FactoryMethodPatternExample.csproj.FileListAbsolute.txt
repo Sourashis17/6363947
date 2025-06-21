@@ -1,0 +1,28 @@
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.exe
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.deps.json
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\refint\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\ref\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.exe
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.deps.json
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\refint\FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Learning-program-solutions_6363947\WEEK 1\FactoryMethodPatternExample\obj\Debug\net8.0\ref\FactoryMethodPatternExample.dll
