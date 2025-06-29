@@ -1,0 +1,6 @@
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\bin\Debug\CustomerCommLib_New.dll
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\bin\Debug\CustomerCommLib_New.pdb
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\obj\Debug\CustomerCommLib_New.csproj.AssemblyReference.cache
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\obj\Debug\CustomerCommLib_New.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\obj\Debug\CustomerCommLib_New.dll
+C:\Users\KIIT\Downloads\MoqMailTestProject\CustomerCommLib_New\obj\Debug\CustomerCommLib_New.pdb
