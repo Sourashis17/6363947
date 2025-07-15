@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\3_web_api_handson\\3_web_api_handson\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|solutionrelative:3_web_api_handson\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\3_web_api_handson\\3_web_api_handson\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|solutionrelative:3_web_api_handson\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\3_web_api_handson\\3_web_api_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|solutionrelative:3_web_api_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\3_web_api_handson\\3_web_api_handson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|solutionrelative:3_web_api_handson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\3_web_api_handson\\3_web_api_handson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F0965-814D-4BA3-81E4-2524E7C47005}|3_Web_API_handson\\3_Web_API_handson.csproj|solutionrelative:3_web_api_handson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Program.cs",
+              "RelativeDocumentMoniker": "3_Web_API_handson\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Program.cs",
+              "RelativeToolTip": "3_Web_API_handson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:29:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "3_Web_API_handson\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "3_Web_API_handson\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:28:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "3_Web_API_handson\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "3_Web_API_handson\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:03:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "3_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "3_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:56:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "3_Web_API_handson\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\3_Web_API_handson\\3_Web_API_handson\\Models\\Employee.cs",
+              "RelativeToolTip": "3_Web_API_handson\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:55:10.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

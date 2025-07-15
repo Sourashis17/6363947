@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\1_web_api_handson\\1_web_api_handson\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|solutionrelative:1_web_api_handson\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\1_web_api_handson\\1_web_api_handson\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|solutionrelative:1_web_api_handson\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|c:\\users\\kiit\\cognizant_nurture4.0_solutions_6363937\\week_4\\1_web_api_handson\\1_web_api_handson\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA807B-6CBE-482B-BECA-EFFF7437FFA2}|1_Web_API_handson\\1_Web_API_handson.csproj|solutionrelative:1_web_api_handson\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "1_Web_API_handson\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "1_Web_API_handson\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:05:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "1_Web_API_handson\\Models\\DbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Models\\DbContext.cs",
+              "RelativeToolTip": "1_Web_API_handson\\Models\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:01:34.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "1_Web_API_handson\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT\\cognizant_nurture4.0_solutions_6363937\\Week_4\\1_Web_API_handson\\1_Web_API_handson\\Models\\Product.cs",
+              "RelativeToolTip": "1_Web_API_handson\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:31:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

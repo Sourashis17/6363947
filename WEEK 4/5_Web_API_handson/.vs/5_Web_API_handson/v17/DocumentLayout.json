@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|c:\\users\\kiit\\desktop\\learning-program-solutions_6363947\\week 4\\5_web_api_handson\\5_web_api_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|solutionrelative:5_web_api_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|c:\\users\\kiit\\desktop\\learning-program-solutions_6363947\\week 4\\5_web_api_handson\\5_web_api_handson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|solutionrelative:5_web_api_handson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|c:\\users\\kiit\\desktop\\learning-program-solutions_6363947\\week 4\\5_web_api_handson\\5_web_api_handson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|solutionrelative:5_web_api_handson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|c:\\users\\kiit\\desktop\\learning-program-solutions_6363947\\week 4\\5_web_api_handson\\5_web_api_handson\\controllers\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|solutionrelative:5_web_api_handson\\controllers\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|c:\\users\\kiit\\desktop\\learning-program-solutions_6363947\\week 4\\5_web_api_handson\\5_web_api_handson\\controllers\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70169A7E-3E54-4ABE-929B-C8AC611CDA0B}|5_Web_API_handson\\5_Web_API_handson.csproj|solutionrelative:5_web_api_handson\\controllers\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Program.cs",
+              "RelativeDocumentMoniker": "5_Web_API_handson\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Program.cs",
+              "RelativeToolTip": "5_Web_API_handson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:12:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "5_Web_API_handson\\Controllers\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "5_Web_API_handson\\Controllers\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:11:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "5_Web_API_handson\\Controllers\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\CustomAuthFilter.cs",
+              "RelativeToolTip": "5_Web_API_handson\\Controllers\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:09:56.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "5_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "5_Web_API_handson\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:06:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "5_Web_API_handson\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Learning-program-solutions_6363947\\WEEK 4\\5_Web_API_handson\\5_Web_API_handson\\Models\\Employee.cs",
+              "RelativeToolTip": "5_Web_API_handson\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:05:34.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

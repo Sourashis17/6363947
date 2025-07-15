@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Web_API_handson", "2_Web_API_handson\2_Web_API_handson.csproj", "{48CC0A3D-B202-4B9A-975B-C83B76AAD1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CC0A3D-B202-4B9A-975B-C83B76AAD1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CC0A3D-B202-4B9A-975B-C83B76AAD1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CC0A3D-B202-4B9A-975B-C83B76AAD1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CC0A3D-B202-4B9A-975B-C83B76AAD1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3CC191-41BF-4A41-82E5-54BBD498CDD3}
+	EndGlobalSection
+EndGlobal
