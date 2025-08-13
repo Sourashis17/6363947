@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.column {
+  flex: 1;
+  border-left: 5px solid green;
+  padding-left: 20px;
+}
+
+.column:first-child {
+  border-left: none;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item-name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.item-author,
+.item-date,
+.item-price,
+.item-content {
+  font-size: 0.9em;
+  color: #555;
+}
